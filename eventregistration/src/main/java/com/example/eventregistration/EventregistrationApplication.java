@@ -1,4 +1,3 @@
-
 package com.example.eventregistration;
 
 import org.springframework.boot.SpringApplication;
